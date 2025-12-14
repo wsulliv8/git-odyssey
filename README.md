@@ -1,3 +1,5 @@
+> Note: This repository is forked from the original in order to clearly exhibit my past work. The original repo can be found [here](https://github.com/DylanPina/git-odyssey)
+
 # GitOdyssey: AI-Powered Codebase Knowledge Graph
 
 GitOdyssey transforms Git repositories into interactive, AI-powered knowledge graphs, enabling developers to understand codebase evolution through natural language queries and visual commit exploration.
